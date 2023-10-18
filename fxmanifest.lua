@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 
 name 'Mythic Framework Notification System'
-author 'Alzar - https://github.com/Alzar'
+author 'Original Author Alzar - https://github.com/Alzar'
 version 'v1.0.4'
 
 ui_page {
